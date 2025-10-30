@@ -19,7 +19,7 @@
 
 on:smithsummer77@yahoo.com,https://github.com/smithsummer77yahoo-droid/Payment/edit/main/.github/workflows/azure-webapps-node.yml
   push:https://github.com/smithsummer77yahoo-droid/Payment/edit/main/.github/workflows/azure-webapps-node.yml
-    branches: [ "smithsummer77@yahoo.com" ]
+    branches: [  ]
   workflow_dispatch:packet:          git> command=smudge
 packet:          git> pathname=path/testfile.dat<smithsummer77@yahoo.com>
 packet:          git> 0000
